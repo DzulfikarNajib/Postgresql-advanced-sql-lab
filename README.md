@@ -26,5 +26,6 @@ Pastikan tabel berikut ada:
 - Membuat Procedure untuk modularisasi query.
 - Membuat Trigger untuk otomatisasi event di database.
 
-# Modul Praktikum Basis Data IPB Semester Ganjil 2025/2026 
+# Referensi
+Modul Praktikum Basis Data IPB Semester Ganjil 2025/2026
 
