@@ -14,8 +14,7 @@ Pastikan tabel berikut ada:
 - `Dependent`
 
 # Struktur Repository
-1. Setup/
-  - company_schema.sql
+1. Setup - company_schema.sql
 2. dcl
 3. advance_sql
 4. answer.md
